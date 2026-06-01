@@ -1,0 +1,7 @@
+intervals = ['P5']
+directions = ['a/d']
+roots = []
+# roots = ['sharps']
+# roots = ['flats']
+# roots = ['accidentals']
+# roots = ['naturals']

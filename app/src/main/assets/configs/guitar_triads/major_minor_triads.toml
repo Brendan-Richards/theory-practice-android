@@ -1,0 +1,4 @@
+low_strings = ['e', 'a', 'd', 'g']
+roots = []
+chord_types = ['m', 'M']
+inversions = [0, 1, 2]

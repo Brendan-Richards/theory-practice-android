@@ -1,0 +1,7 @@
+intervals = ['M3']
+directions = ['d']
+# roots = []
+# roots = ['sharps']
+roots = ['flats']
+# roots = ['accidentals']
+# roots = ['naturals']
